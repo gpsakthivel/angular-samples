@@ -14,6 +14,9 @@
 ### Projects:
 - crud-with-material-ui
 
+### Portfolio:
+- my-portfolio
+
 ### POC with [NPM Plugins](https://www.npmjs.com/):
 - [ngx-daterangepicker-material](https://www.npmjs.com/package/ngx-daterangepicker-material)
   - Date range picker (ngx-daterangepicker-material-plugin-poc)
