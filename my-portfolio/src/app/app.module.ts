@@ -21,6 +21,7 @@ import { PaperComponent } from './components/paper/paper.component';
 import { ContactMeComponent } from './components/contact-me/contact-me.component';
 import { AboutMeComponent } from './components/about-me/about-me.component';
 import { HomeComponent } from './components/home/home.component';
+import { SidebarComponent } from './components/sidebar/sidebar.component';
 
 @NgModule({
   declarations: [
@@ -42,7 +43,8 @@ import { HomeComponent } from './components/home/home.component';
     PaperComponent,
     ContactMeComponent,
     AboutMeComponent,
-    HomeComponent
+    HomeComponent,
+    SidebarComponent
   ],
   imports: [
     BrowserModule,
