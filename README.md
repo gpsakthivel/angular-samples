@@ -21,10 +21,7 @@
 - [ngx-daterangepicker-material](https://www.npmjs.com/package/ngx-daterangepicker-material)
   - Date range picker (ngx-daterangepicker-material-plugin-poc)
 - [flag-icons](https://www.npmjs.com/package/flag-icons)
-  - CSS (poc-flag-image-integration-css)
-  - LESS (poc-flag-image-integration-less)
-  - SASS (poc-flag-image-integration-sass)
-  - SCSS (poc-flag-image-integration-scss)
+  - Flag icons (poc-flag-image-integration)
 
 ### Tutorials:
 - jspdf-tutorial
